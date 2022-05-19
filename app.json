@@ -14,8 +14,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/subinps/Media-Search-bot",
-    "repository": "https://github.com/subinps/Media-Search-bot",
+    "website": "https://github.com/chaitanyababuvcb/vcbmovies",
+    "repository": "https://github.com/chaitanyababuvcb/vcbmovies",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
